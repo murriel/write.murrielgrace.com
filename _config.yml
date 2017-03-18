@@ -1,0 +1,42 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: rogue
+markdown: kramdown
+disqus: dbyll
+google_analytics: dbyll
+title: murriel
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: murriel
+
+description: unfinished projects
+author:
+  name: murriel
+  email: murriel@murrielgrace.com
+  github: murriel
+  twitter: xmurriel
+  linkedin: murriel-perez
+  bio: projects, thoughts, errata, and addendums.
+  email_md5: e748a232226daa23ae1dcd8db6269e3d
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+# set it as url of an image
+# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+
+# Footer settings
+footer: murrielgrace.com
+
+BASE_PATH:
+
+gems:
+  - jekyll-paginate

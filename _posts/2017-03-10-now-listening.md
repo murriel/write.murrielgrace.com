@@ -2,8 +2,7 @@
 layout: post
 title: now hear this
 categories: [tech, projects, lists]
-fullview: true
-comments: true
+description: now listening (my current list of podcasts)
 ---
 
 current podcast list:
