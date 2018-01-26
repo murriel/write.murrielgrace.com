@@ -13,12 +13,11 @@ tagline:
   <h2>
     <a href="{{ site.BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
   </h2>
-
-    {{ post.date | date: "%Y" }}: {% if post.description %}
+<div>
+    {{ post.date }}: {% if post.description %}
     {{ post.description }}
     {% endif %}
-
-
+</div>
 </article>
 {% endfor %}
 <hr/>
