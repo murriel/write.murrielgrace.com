@@ -1,12 +1,24 @@
+---
+layout: page
+title: NOW NOW NOW
+categories: [self]
+---
 # NOW NOW NOW
 This is my 'now' page, based on the https://www.nownownow.com project.
 
-- Coding: 30 days of git commits. @TODO - Start (re)-learning Python
-- Reading: Joseph Campbell, Hero's Journey. Weekly: NY Times Sunday Magazine, LA Weekly
-- Staying fit: yoga / surfing weekly
-- Engaging: reach out to friends and family
-- Studying: Docker, Kubernetes, ECS
-- Making: Acrylic paints on wood, soldering random things, 3d printed jewelry
-- Now watching: Rick and Morty, not GoT, Gravity Falls
-- Listening: Vaporwave, Science Fiction (Brand New), so many podcasts (so little time)
-- Playing: Life is Strange, Before the Storm
+- **Coding:** 30 days of git commits. @TODO - Start (re)-learning Python
+- **Reading:** <u>Hero's Journey</u> by Joseph Campbell. <u>Slouching Toward Bethlehem</u> by Joan Didion. Weekly: NY Times Sunday Magazine, ~RIP LA Weekly~
+- **Staying Fit:** yoga / surfing
+- **Engaging:** spending time with [@SeanLeftBelow](www.twitter.com/seanleftbelow), friends and family
+- **Studying:** AWS Solutions Architect Pro certification, Docker, Django
+- **Making:**  soldering random things, 3d printed jewelry
+- **Highly Interested in:** Demoscene, transmedia storytelling, conductive art
+- **Now Watching:** Gravity Falls, Cable Girls
+- **Listening:** Synthwave/Vaporwave, Science Fiction (Brand New), so many podcasts (so little time)
+- **Playing:** Breath of the Wild, Super Mario Odyssey
+- **Finished Playing:** Life is Strange, Before the Storm
+- **Work:** DevOps'ing all the DevOps at a VR Startup
+
+**Community:**
+- [www.longbeachcraftday.com]
+- [www.femtech.la]
