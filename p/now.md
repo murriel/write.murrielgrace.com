@@ -4,12 +4,12 @@ title: NOW NOW NOW
 categories: [self]
 ---
 
-This is my 'now' page, based on the https://www.nownownow.com project.
+This is my 'now' page, based on the [https://www.nownownow.com](https://www.nownownow.com) project.
 
 - **Coding:** 30 days of git commits. @TODO - Start (re)-learning Python
 - **Reading:** <u>Hero's Journey</u> by Joseph Campbell. <u>Slouching Toward Bethlehem</u> by Joan Didion. Weekly: NY Times Sunday Magazine, ~RIP LA Weekly~
 - **Staying Fit:** yoga / surfing
-- **Engaging:** spending time with [@SeanLeftBelow](www.twitter.com/seanleftbelow), friends and family
+- **Engaging:** spending time with [@SeanLeftBelow](https://www.twitter.com/seanleftbelow), friends and family
 - **Studying:** AWS Solutions Architect Pro certification, Docker, Django
 - **Making:**  soldering random things, 3d printed jewelry
 - **Highly Interested in:** Demoscene, transmedia storytelling, conductive art
@@ -20,5 +20,5 @@ This is my 'now' page, based on the https://www.nownownow.com project.
 - **Work:** DevOps'ing all the DevOps at a VR Startup
 
 **Community:**
-- http://www.longbeachcraftday.com
-- http://www.femtech.la
+- [http://www.longbeachcraftday.com](http://www.longbeachcraftday.com)
+- [http://www.femtech.la](http://www.femtech.la)
