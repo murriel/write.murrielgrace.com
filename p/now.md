@@ -3,7 +3,7 @@ layout: page
 title: NOW NOW NOW
 categories: [self]
 ---
-# NOW NOW NOW
+
 This is my 'now' page, based on the https://www.nownownow.com project.
 
 - **Coding:** 30 days of git commits. @TODO - Start (re)-learning Python
@@ -20,5 +20,5 @@ This is my 'now' page, based on the https://www.nownownow.com project.
 - **Work:** DevOps'ing all the DevOps at a VR Startup
 
 **Community:**
-- [www.longbeachcraftday.com]
-- [www.femtech.la]
+- http://www.longbeachcraftday.com
+- http://www.femtech.la

@@ -22,8 +22,7 @@ tagline:
     {% when 3 or 23 %}{{ d }}rd,
     {% else %}{{ d }}th,
     {% endcase %}
-    {{ post.date | date: "%Y" }}:
-
+    {{ post.date | date: "%Y" }}:</span>
     {% if post.description %}
     {{ post.description }}
     {% endif %}
