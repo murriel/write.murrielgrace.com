@@ -14,7 +14,7 @@ tagline:
     <a href="{{ site.BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
   </h2>
 <div>
-    {{ post.date | YYYY-MM-DD }}: {% if post.description %}
+    {{ post.date | date: "%Y-%m-%d" }}: {% if post.description %}
     {{ post.description }}
     {% endif %}
 </div>
