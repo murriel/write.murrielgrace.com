@@ -59,6 +59,9 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 To add tags to posts, add the following to the Jekyll Front Matter
 tags: [demo, dbyll, dbtek, sample2]
 
+
+**To Add Pages**
+To add new pages, simple add a file in the `_pages` directory that follows 
 **Code Snippets**  
 @TODO Add the highlight type and explain
 
