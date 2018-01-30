@@ -22,5 +22,5 @@ This is my 'now' page, based on the [https://www.nownownow.com](https://www.nown
 
 
 **Community:**
-- [http://www.longbeachcraftday.com](http://www.longbeachcraftday.com)
+- [http://longbeachcraftday.com](http://longbeachcraftday.com)
 - [http://www.femtech.la](http://www.femtech.la)
