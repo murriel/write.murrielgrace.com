@@ -11,22 +11,26 @@ This is a mini shortcut + reference guide on using Jekyll on GitHub Pages as a b
 [Jekyll Website](https://jekyllrb.com/)  
 [GitHub Pages - Getting Started](https://pages.github.com/)   
 [GitHub Pages Reference](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)  
+[Great Reference Guide](https://learn.cloudcannon.com/)
+
 
 **Basic Directory Structure:**
 
 | Directory    |  | Notes  |
 |---|---|--|
+| \_data |  | Location for any data that can be referenced in the site. Typically in json, yml, or csv format |
 | \_drafts |  | Drafts are saved locally but not checked in to version control. |
 | \_includes  | | sidebars and headers |
 | \_layouts  | | page layouts |
-| \_posts  |   | posts go heree |
-| \_site  | | generated website will go here. don't touch this. |
+| \_pages | | 'nonpost' pages |
+| \_posts  |   | posts go here |
+| \_site  | | generated website will go here. don't touch this. this should be in your .gitignore if hosting on GitHub Pages |
 | assets  | | css, images, javascript, other utilities |
 
 <br>
 
 
-**What's Up GitHub?**
+**What's Up GitHub?**  
 GitHub Branches
 
 **Front Matter**  
@@ -54,14 +58,17 @@ You can also add custom variables the the front matter that will display on the 
 
 
 **To Add a New Post**  
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. "ext" will usually be ".md" for Markdown.
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. "ext" will usually be ".md" for Markdown.  
 
 To add tags to posts, add the following to the Jekyll Front Matter
 tags: [demo, dbyll, dbtek, sample2]
 
 
 **To Add Pages**
-To add new pages, simple add a file in the `_pages` directory that follows 
+To add new pages, simple add a file in the `_pages` directory that includes the necessary front matter. The extension will usually be ".md" for Markdown.
+
+These pages will then be available on the site
+
 **Code Snippets**  
 @TODO Add the highlight type and explain
 
