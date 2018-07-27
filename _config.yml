@@ -10,6 +10,20 @@ google_analytics: dbyll
 title: murriel
 include: ['p']
 
+collections_dir: c
+
+collections:
+  now:
+    output: true
+  lists:
+    output: true
+  pub
+    output: true
+  tech
+    output: true
+  build
+    output: true
+
 defaults:
   -
     scope:

@@ -6,21 +6,20 @@ categories: [self]
 
 This is my 'now' page, based on the [https://www.nownownow.com](https://www.nownownow.com) project.
 
-- **Coding:** 30 days of git commits. @TODO - Start (re)-learning Python
-- **Reading:** <u>Hero's Journey</u>, Joseph Campbell. <u>Slouching Toward Bethlehem</u>, Joan Didion. Weekly: NY Times Sunday Magazine, ~~RIP LA Weekly~~
-- **Staying Healthy:** Yoga - Surfing -  Breathing - Flow  
+- **Coding:** Improving my Python: [Automate](https://nostarch.com/automatestuff/) | [Not Just for Kids](https://nostarch.com/pythonforkids) | [Jupyter](http://jupyter.org/install)
+- **Reading List:** <u>Hero's Journey</u>, Joseph Campbell. <u>Slouching Toward Bethlehem</u>, Joan Didion. <u>Women Who Run With The Wolves</u>. <u>Inherent Vice</u>, Thomas Pynchon. Weekly: Sunday NY Times, ~~RIP LA Weekly~~
+- **Staying Healthy:** Yoga - Surfing -  Breathing - Flow
 - **Engaging:** spending time with [@SeanLeftBelow](https://www.twitter.com/seanleftbelow), friends and family
-- **Studying:** AWS Solutions Architect Pro certification, Docker, Django
-- **Making:**  soldering random things, 3d printed jewelry
+- **Studying:** Docker + Kubernetes, Elasticsearch, the untold depths of AWS | GCP | Azure
+- **Making:**  Working on an "add-on" badge for DC26 [Add-On](https://github.com/SeanLeftBelow/defcon26-meow/tree/master/addon]) | lots of KiCad and Inkscape.
 - **Highly Interested in:** Demoscene, transmedia storytelling, conductive art
-- **Now Watching:** Gravity Falls, Cable Girls
-- **Listening:** Synthwave/Vaporwave, Science Fiction (Brand New), so many podcasts (so little time)
-- **Playing:** Breath of the Wild, Super Mario Odyssey
-- **Finished Playing:** Life is Strange, Before the Storm
-- **Work:** DevOps'ing all the DevOps at a VR Startup
-- **Tech:** Information Security, Saltstack, Terraform, Jenkins, {"Databases": "Love"}
+- **Now Watching:** Gravity Falls, Man in the High Castle
+- **Listening:** [Tash Sultana](https://www.youtube.com/watch?v=GVDJ8O3lPBA), Synthwave/Vaporwave, lots of [SomaFM](https://somafm.com/), so many podcasts (so little time)
+- **Playing:** Breath of the Wild, Super Mario Odyssey, _waiting for_ Life is Strange 2
+- **Work:** @TODO
+- **Tech:** Information Security, Saltstack (or Ansible), Terraform + Hashi-universe, Jenkins, Open Data, {"Databases": "Love"}
 
 
 **Community:**
-- [http://longbeachcraftday.com](http://longbeachcraftday.com)
-- [http://www.femtech.la](http://www.femtech.la)
+- [https://longbeachcraftday.com](https://longbeachcraftday.com)
+- [http://www.femtech.la](http://www.femtech.la) ~ needs content update + 100% more https

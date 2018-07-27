@@ -5,7 +5,22 @@ categories: [tech]
 description: a shortcut reference guide for using Jekyll, the static site generator, on GitHub pages
 ---
 
-This is a mini shortcut + reference guide on using Jekyll on GitHub Pages as a blogging platform. The page is a work in progress, and to be perfectly honest, is mostly here so that I have quick reminders about how to update my site.
+This is a mini shortcut and reference guide on using Jekyll on GitHub Pages as a blogging platform. The page is a work in progress, and to be perfectly honest, is mostly here so that I have quick reminders about how to update my site.
+
+**Know Before You Go**
+There are a few key concepts or technologies that you should be aware of as you progress through this journey.
+
+You do not have to detour to learn about the world before you start, but having general knowledge of these systems is helpful.
+(condense)
+
+`to bake an apple pie, you must first invent the universe. -carl sagan`
+
+- Ruby  
+- Github Pages  
+- Markdown  
+- Liquid Templating Language
+- YAML
+
 
 **Useful Links**  
 [Jekyll Website](https://jekyllrb.com/)  
@@ -51,10 +66,9 @@ description: tell me about the page
 ---
 ```
 
-You can also add custom variables the the front matter that will display on the page layout. For example, if you add
-`author: guestauthor` to the front matter, you can then reference that variable in the layout html document using `{{ page.author }}`.  
+You can also add custom variables the the front matter that will display on the page layout. For example, if you add `author: guestauthor` to the front matter, you can then reference that variable in the layout html document using `page.author` enclosed in double curly brackets.  
 
-@TODO - what happens without front matter?
+<!-- @TODO - what happens without front matter? -->
 
 
 **To Add a New Post**  
@@ -64,10 +78,10 @@ To add tags to posts, add the following to the Jekyll Front Matter
 tags: [demo, dbyll, dbtek, sample2]
 
 
-**To Add Pages**
+**To Add Pages**  
 To add new pages, simple add a file in the `_pages` directory that includes the necessary front matter. The extension will usually be ".md" for Markdown.
 
-These pages will then be available on the site
+These pages will then be available on the site. Use the base directory and reference the page without the extension. For example,  `_pages/about.md` will be available on `www.yoursite.com/pages/about`  
 
 **Code Snippets**  
 @TODO Add the highlight type and explain

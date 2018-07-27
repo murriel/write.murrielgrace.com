@@ -3,3 +3,5 @@ _site/
 *Thumbs.db
 Gemfile.lock
 _drafts
+_bundles
+.bundle
