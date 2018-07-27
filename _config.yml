@@ -17,11 +17,11 @@ collections:
     output: true
   lists:
     output: true
-  pub
+  pub:
     output: true
-  tech
+  tech:
     output: true
-  build
+  build:
     output: true
 
 defaults:
