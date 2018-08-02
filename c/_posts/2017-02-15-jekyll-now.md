@@ -97,4 +97,5 @@ title: yaml block
 {% endhighlight %}
 
 
-*Footnotes:* The shortcuts and details above were compiled from various Jekyll and theme reference guides.
+*Footnotes:* The shortcuts and details above were compiled from various Jekyll and theme reference guides.  
+Here's a cool look at the evolution of GitHub pages: https://blog.github.com/2015-04-27-eight-lessons-learned-hacking-on-github-pages-for-six-months/  
